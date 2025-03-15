@@ -1,7 +1,7 @@
 4349
 110C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\type-fest\source\conditional-keys.d.ts133862433372225770 0
 105C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\cosmiconfig\dist\loaders.d.ts.map133862433377597433 0
-71C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\package.json133862630632063551 0
+71C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\package.json133865337851175299 0
 103C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\caniuse-lite\data\regions\CR.js133862433381362669 0
 81C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\commander133862433373113321 1
 104C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@parcel\packager-js\lib\utils.js133862433374697452 0
@@ -24,7 +24,7 @@
 103C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\caniuse-lite\data\regions\VE.js133862433433319622 0
 97C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\dotenv\lib\env-options.js133862433369880463 0
 108C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@parcel\watcher\src\PromiseRunner.hh133862433377909289 0
-69C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\.gitignore133865316450504913 0
+69C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\.gitignore133865341772078539 0
 89C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\lmdb\dependencies133862433381332666 1
 102C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\electron-to-chromium\README.md133862433372984916 0
 89C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\readdirp\index.js133862433656640677 0
@@ -34,7 +34,7 @@
 103C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\caniuse-lite\data\regions\BE.js133862433379500174 0
 69C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\src\images133864648867344433 1
 111C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@parcel\transformer-babel\src\config.js133862433371943788 0
-63C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist133865326698812236 1
+63C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist133865337518292276 1
 82C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\nullthrows133862433370584169 1
 105C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@swc\helpers\esm\_to_primitive.js133862433382682259 0
 80C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\get-port133862433370172719 1
@@ -102,7 +102,7 @@
 89C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\lmdb\util\when.js133862433381792430 0
 116C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\utility-types\dist\aliases-and-guards.js.map133862433371522342 0
 109C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\caniuse-lite\data\features\css-all.js133862433381462481 0
-81C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\src\styles\_about.scss133865327409831017 0
+81C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\src\styles\_about.scss133865327820715360 0
 121C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133862433379912090 0
 80C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\src\styles\_hero.scss133865322478987400 0
 109C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\caniuse-lite\data\features\datauri.js133862433425336281 0
@@ -1765,7 +1765,7 @@
 108C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\msgpackr\dist\unpack-no-eval.cjs.map133862433379117710 0
 106C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@parcel\core\src\resolveOptions.js133862433382007083 0
 117C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\caniuse-lite\data\features\background-sync.js133862433379328725 0
-88C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\botao_video.77d8308c.png133865326542560082 0
+88C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\botao_video.77d8308c.png133865337515455264 0
 123C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133862433378391006 0
 99C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@parcel\events\package.json133862433373047740 0
 90C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\micromatch\LICENSE133862433366724790 0
@@ -3615,7 +3615,7 @@
 102C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@parcel\cache\lib\LMDBCache.js133862433372171148 0
 104C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@swc\helpers\esm\_ts_decorate.js133862433382717214 0
 102C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@swc\helpers\esm\_ts_values.js133862433382797650 0
-99C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\exercicio_modulo_22.59712999.js.map133865326542771908 0
+99C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\exercicio_modulo_22.59712999.js.map133865337515870717 0
 122C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@swc\helpers\esm\_unsupported_iterable_to_array.js133862433382821603 0
 110C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@swc\helpers\esm\_wrap_native_super.js133862433382911682 0
 109C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@swc\helpers\esm\_write_only_error.js133862433382924413 0
@@ -4020,7 +4020,7 @@
 109C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@parcel\reporter-cli\src\logLevels.js133862433372581176 0
 106C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@parcel\reporter-cli\src\render.js133862433373047740 0
 111C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@parcel\reporter-cli\lib\CLIReporter.js133862433371560699 0
-88C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\palestrante.8e024733.png133865326542584487 0
+88C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\palestrante.8e024733.png133865337515445221 0
 115C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133862433376265681 0
 92C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@parcel\profiler\lib133862433374164496 1
 93C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@parcel\profiler\test133862433372345078 1
@@ -4289,7 +4289,7 @@
 126C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\README.md133862433368829804 0
 104C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@mischnic\json-sourcemap\LICENSE133862433367331224 0
 106C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@mischnic\json-sourcemap\README.md133862433368366008 0
-86C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\index.971c2ea4.css.map133865326698792249 0
+86C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\index.971c2ea4.css.map133865337515475189 0
 112C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@mischnic\json-sourcemap\dist\index.d.ts133862433369903930 0
 101C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@lmdb\lmdb-win32-x64\index.js133862433363961662 0
 109C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\node_modules\@lmdb\lmdb-win32-x64\node.abi115.node133862433373635519 0
@@ -4338,13 +4338,13 @@
 93C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\abstrato_amarelo.b333bb07.svg133865077798780335 0
 90C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\abstrato_rosa.ba8b2824.svg133865077799126458 0
 93C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\bolo_aniversario.5c698f21.jpg133862653284688299 0
-95C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\exercicio_modulo_22.59712999.js133865326541015410 0
+95C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\exercicio_modulo_22.59712999.js133865337515435246 0
 83C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\franki.1beea3ae.png133864642085947935 0
 80C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\images.3f89338d.133862626678081710 0
-82C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\index.971c2ea4.css133865326698679240 0
-81C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\index.f75de5e1.js133865326541035588 0
-85C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\index.f75de5e1.js.map133865326542771908 0
-74C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\index.html133865326543771585 0
+82C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\index.971c2ea4.css133865337515415236 0
+81C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\index.f75de5e1.js133865337518241741 0
+85C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\index.f75de5e1.js.map133865337518281913 0
+74C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\index.html133865337515305212 0
 82C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\jerry.8705314c.png133864642085947935 0
 81C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\john.100a8d2b.png133864642085947935 0
-87C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\visitante1.a15350ee.png133865326542649719 0
+87C:\Users\digui\Desktop\EBAC\exercicios\exercicio_modulo_22\dist\visitante1.a15350ee.png133865337515740909 0

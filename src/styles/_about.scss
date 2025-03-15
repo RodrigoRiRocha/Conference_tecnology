@@ -1,0 +1,134 @@
+.about {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+
+    @media (max-width: 630px) {
+        flex-direction: column; 
+        text-align: center;
+        padding: 20px; 
+    }
+
+    &__image {
+        margin-left: 148px;
+        margin-right: 216px;
+
+        @media (max-width: 630px) {
+            margin: 0 auto 20px auto; 
+            width: 80%; 
+            max-width: 80%px;
+
+            img {
+            max-width: 100%;
+            }
+            
+
+        }
+    }
+
+    
+    &__text {
+        margin-left: 50px;
+
+        @media (max-width: 630px) {
+            margin: 0; /* Remove margens laterais para centralizar */
+        }
+        
+
+        h1 {
+            font-size: 38px;
+            font-weight: bold;
+            margin-bottom: 16px;
+
+            @media (max-width: 630px) {
+                font-size: 28px; /* Reduz o tamanho do título */
+            }
+        }
+
+        p {
+            font-size: 20px;
+            font-weight: normal;
+            opacity: 0.7;
+            
+            @media (max-width: 630px) {
+                font-size: 16px; /* Diminui o tamanho do texto para melhorar leitura */
+            }
+        }
+    }
+
+    &__date {
+        margin-top: 46px;
+        margin-bottom: 42px;
+
+        @media (max-width: 630px) {
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+    }
+
+    &__info {
+        display: flex;
+        gap: 50px; 
+        margin-top: 20px; 
+
+        @media (max-width: 630px) {
+            flex-direction: column; /* Empilha os elementos */
+            gap: 20px; /* Reduz espaço entre os blocos */
+            align-items: center;
+        }
+
+        &__box {
+            background: linear-gradient(to bottom, #191E24 0%, #353F4A 100%); 
+            padding: 20px 30px;
+            border-radius: 8px; 
+            text-align: center;
+            width: 166px;
+            height: 118px;
+
+            @media (max-width: 630px) {
+                width: 100%; /* Ajusta ao tamanho da tela */
+                max-width: 200px; /* Mantém um tamanho razoável */
+            }
+
+            .number {
+                font-size: 40px;
+                font-weight: bold;
+                display: block; 
+
+                @media (max-width: 630px) {
+                    font-size: 32px; /* Reduz um pouco o tamanho do número */
+                }
+            }
+
+            .label {
+                font-size: 16px;
+
+                @media (max-width: 630px) {
+                    font-size: 14px;
+                }
+            }
+            
+        }
+    }
+}
+
+.about__relative {
+    position: relative;
+    margin-left: 290px;
+    top: -195px;
+    height: auto;
+    padding: 10px;
+
+    @media (max-width: 630px) {
+        margin-left: 0;
+        top: 0;
+        text-align: center;
+        max-width: 80%;
+        align-items: center;
+        margin: 0 auto;
+
+        img {
+            max-width: 100%;
+        }
+    }
+}

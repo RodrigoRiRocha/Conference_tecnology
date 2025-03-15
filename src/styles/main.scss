@@ -1,0 +1,15 @@
+@use 'hero';
+@use 'about';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-family: "Nunito", sans-serif;
+    font-style: normal;
+}
+
+body {
+    background: linear-gradient(to bottom, #191E24 0%, #353F4A 100%);
+}
